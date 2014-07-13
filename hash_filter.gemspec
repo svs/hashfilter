@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["svs"]
   spec.email         = ["svs@svs.io"]
   spec.summary       = %q{Recursively filter hashes}
-  spec.homepage      = "https://github.com/svs/hash_filter"
+  spec.homepage      = "https://github.com/svs/hashfilter"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
