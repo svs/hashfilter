@@ -1,4 +1,4 @@
-require "hash_filter/version"
+require "hashfilter/version"
 require 'active_support/core_ext/hash'
 module HashFilter
 
